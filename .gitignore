@@ -3,7 +3,7 @@
 .vscode/
 #and CURL
 curl/
-curl-8.16.0_8-win64-mingw
+curl-8.16.0_8-win64-mingw/
 # Optional: other common build and temp folders
 bin/
 obj/
