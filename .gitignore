@@ -1,7 +1,8 @@
 # Ignore Visual Studio and VS Code folders
 .vs/
 .vscode/
-
+#aND CURL
+curl/
 # Optional: other common build and temp folders
 bin/
 obj/
