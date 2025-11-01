@@ -1,0 +1,11 @@
+# Ignore Visual Studio and VS Code folders
+.vs/
+.vscode/
+
+# Optional: other common build and temp folders
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.log
